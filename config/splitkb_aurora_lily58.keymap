@@ -116,7 +116,7 @@
 &trans    &trans    &trans      &trans      &kp LBRC    &kp RBRC  &trans                                              &trans    &trans    &trans    &trans      &trans      &trans      &trans
                                 &kp LG(T)   &trans      &trans    &trans                                              &trans    &trans    &trans    &trans
 			>;
-            sensor-bindings = <&inc_dec_kp LG(LS(RBKT)) LG(LS(LBKT))>;
+            sensor-bindings = <&inc_dec_kp LG(LS(LBKT)) LG(LS(RBKT))>;
 		};
 
 		adjust_layer {
