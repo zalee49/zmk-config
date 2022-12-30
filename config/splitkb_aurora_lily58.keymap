@@ -93,7 +93,7 @@
 &mt LSHFT LPAR &kp Z    &kp X       &kp C       &kp V          &kp B       &mt LA(SPACE) LG(SPACE) 		&kp LA(LG(SPACE))       &kp N  	       &kp M        &kp COMMA   &kp DOT     &kp FSLH         &mt RSHFT RPAR
                                     &kp C_MUTE	&mo LWR		&kp LCMD       &am LS(LALT) SPACE           &am LS(RC(LALT)) BSPC   &kp TAB        &mo RAS      &trans     
 			>;
-            sensor-bindings = <&inc_dec_kp C_VOLUME_UP C_VOLUME_DOWN>;
+            sensor-bindings = <&inc_dec_kp C_VOLUME_DONW C_VOLUME_UP>;
 		};
 
 		lower_layer {
