@@ -34,7 +34,7 @@
         compatible = "zmk,combos";
         combo_esc {
             timeout-ms = <50>;
-            key-positions = <54 55>;
+            key-positions = <53 54>;
             bindings = <&kp ENTER>;
         };
     };
